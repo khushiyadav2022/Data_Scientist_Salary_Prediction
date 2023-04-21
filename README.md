@@ -1,6 +1,8 @@
 # Data_Scientist_Salary_Prediction
 Here you learn that how to apply linear regression on categorical values. This is the most amazing part of this project.
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gRQ38lvIGg218xHAcenXVp4pCdrYmB9hlA&usqp=CAU)
+
 A data scientist has a very comprehensive job. Unlike other kinds of data specialists who specialize in a specific task (such as data engineers and data analysts), data scientists tackle the end-to-end lifecycle of a data science project right from data acquisition to model optimization to communicating insights to stakeholders. Because of this, data scientists are required to have a versatile skillset, and they pull down a pretty significant salary.
 
 I have analysed the dataset from kaggle. According to my data analysis- 
