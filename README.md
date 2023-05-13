@@ -13,4 +13,4 @@ I have analysed the dataset from kaggle. According to my data analysis-
 
 [Dataset:](https://github.com/khushiyadav2022/Data_Scientist_Salary_Prediction/blob/8b02fe5dee738362567ac4c1594d0ef0f510fd52/Data%20Science%20Jobs%20Salaries.csv)
 
-[Notebook](https://github.com/khushiyadav2022/Data_Scientist_Salary_Prediction/blob/8b02fe5dee738362567ac4c1594d0ef0f510fd52/DS_Salaryprediction.ipynb)
+[Notebook](https://github.com/khushiyadav2022/Data_Scientist_Salary_Prediction/blob/b8c698390c6687303b2a00b5efa5f73d149ffeeb/data-scientist-salary-prediction.ipynb)
